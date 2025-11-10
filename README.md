@@ -24,7 +24,7 @@ I split my time between building, mentoring, and research-heavy side projects. A
 
 ## ✨ Featured Projects
 
-### 📊 ARES: FTC Analytics Platform | [Live Site](https://ares-robotics.com)
+### ARES: FTC Analytics Platform | [Live Site](https://ares-bot.com)
 **2023–Present** | Public stats and Discord bot for FTC teams: OPR, rankings, match insights.
 
 Built a scalable backend responsible for processing raw tournament data in real-time via a REST API. This platform provides an advanced analytics dashboard and integrated Discord bot that serve hundreds of competitive robotics teams with critical match insights and performance metrics.
@@ -35,7 +35,7 @@ Built a scalable backend responsible for processing raw tournament data in real-
 
 ---
 
-### Spike Inclusive: Accessibility Robotics | [App Store](https://apps.apple.com/us/app/spike-inclusive)
+### Spike Inclusive: Accessibility Robotics | [App Store](https://apps.apple.com/us/app/spike-inclusive/id6751004045)
 **2023-Present** | Accessible LEGO Spike programming via Bluetooth LE with guided blocks.
 
 Developed a custom Bluetooth LE protocol to establish reliable, low-latency communication with the LEGO Spike robots. The project features an accessible iPad interface that uses a guided block system, specifically designed to enable students with diverse abilities to successfully program and interact with robots.
@@ -46,7 +46,7 @@ Developed a custom Bluetooth LE protocol to establish reliable, low-latency comm
 
 ---
 
-### 🤖 Flokode: Agentic AI Project Manager
+### Flokode: Agentic AI Project Manager | [Repo](https://github.com/flow-kode/flow-kode)
 **2025-Present** | AI code-agent platform with multi-step workflows and tool-chain automation.
 
 Designed and implemented an agentic AI system capable of complex multi-agent orchestration and delegation for software development tasks. The platform uses context-aware automation, integrating directly with developer tools to intelligently execute multi-step workflows, significantly reducing manual effort and development cycles.
@@ -57,7 +57,7 @@ Designed and implemented an agentic AI system capable of complex multi-agent orc
 
 ---
 
-### 🎮 FitRealm: Gamified Fitness App
+### FitRealm: Gamified Fitness App | [Repo](https://github.com/henrybon806/fit-realm)
 **2025-Present** | Gamified fitness app with quests, streaks, and real-time progress.
 
 Created an RPG-style fitness platform that integrates a detailed character progression system, empowering users through virtual rewards for real-world activity. The application utilizes motivational design elements like streaks, social challenges, and leveling mechanics to significantly enhance long-term workout motivation and engagement.
