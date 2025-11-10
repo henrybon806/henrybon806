@@ -31,7 +31,7 @@ I split my time between building, mentoring, and research-heavy side projects. A
 
 | **Overview** | **Key Features** | **Impact & Reach** |
 |:---:|:---:|:---:|
-| Built scalable backend processing tournament data via REST API.<br><br>Created real-time analytics dashboard serving robotics teams with match insights and performance metrics. | Live OPR calculations<br>Team comparison tools<br>Discord bot integration<br>Tournament bracketing | **500+ teams** nationwide<br>District coordinator adoption<br>State championship usage<br>Real-time match processing |
+| Built a scalable backend processing tournament data via a REST API to serve real-time match insights. The platform features an analytics dashboard and Discord bot, helping robotics teams with performance metrics. | Live OPR calculations<br>Team comparison tools<br>Discord bot integration<br>Tournament bracketing | **500+ teams** nationwide<br>District coordinator adoption<br>State championship usage<br>Real-time match processing |
 
 </div>
 
@@ -39,14 +39,14 @@ I split my time between building, mentoring, and research-heavy side projects. A
 
 ---
 
-### ♿ [Spike Inclusive: Accessibility Robotics](https://github.com/henrybon806/spike-inclusive) | [App Store](https://apps.apple.com/us/app/spike-inclusive)
+### [Spike Inclusive: Accessibility Robotics](https://github.com/henrybon806/spike-inclusive) | [App Store](https://apps.apple.com/us/app/spike-inclusive)
 **2023-Present** | Accessible LEGO Spike programming via Bluetooth LE with guided blocks.
 
 <div align="center">
 
 | **Overview** | **Key Features** | **Impact & Reach** |
 |:---:|:---:|:---:|
-| Developed custom Bluetooth LE protocol for LEGO robot communication.<br><br>Created accessible iPad interface enabling students with disabilities to program robots through guided blocks. | Custom BLE command layer<br>Accessible UI design<br>Guided programming blocks<br>Real-time robot feedback | **App Store** deployment<br>District curricula integration<br>**10+ students** with disabilities<br>Inclusive robotics education |
+| Developed a custom Bluetooth LE protocol to enable reliable communication with LEGO robots. This project created an accessible iPad interface that allows students with disabilities to program robots through guided blocks. | Custom BLE command layer<br>Accessible UI design<br>Guided programming blocks<br>Real-time robot feedback | **App Store** deployment<br>District curricula integration<br>**10+ students** with disabilities<br>Inclusive robotics education |
 
 </div>
 
@@ -61,7 +61,7 @@ I split my time between building, mentoring, and research-heavy side projects. A
 
 | **Overview** | **Key Features** | **Impact & Reach** |
 |:---:|:---:|:---:|
-| Designed agentic AI system with multi-agent orchestration capabilities.<br><br>Built context-aware automation for complex development workflows and intelligent task execution. | Multi-agent orchestration<br>Context-aware code generation<br>VS Code integration<br>Automated testing workflows | Developer productivity gains<br>Intelligent task automation<br>Complex workflow execution<br>Reduced development cycles |
+| Designed an agentic AI system capable of multi-agent orchestration for complex development tasks. The platform provides context-aware automation for complex workflows and intelligent task execution, reducing development cycles. | Multi-agent orchestration<br>Context-aware code generation<br>VS Code integration<br>Automated testing workflows | Developer productivity gains<br>Intelligent task automation<br>Complex workflow execution<br>Reduced development cycles |
 
 </div>
 
@@ -76,7 +76,7 @@ I split my time between building, mentoring, and research-heavy side projects. A
 
 | **Overview** | **Key Features** | **Impact & Reach** |
 |:---:|:---:|:---:|
-| Created RPG-style fitness platform with character progression system and social challenges to enhance workout motivation | Character progression system<br>Workout quest mechanics<br>Social challenges<br>Real-time analytics | Scalable fitness architecture<br>Multiple tracking integrations<br>Long-term engagement design<br>Enhanced motivation system |
+| Created an RPG-style fitness platform featuring a character progression system and social challenges. The design enhances workout motivation and long-term engagement for users. | Character progression system<br>Workout quest mechanics<br>Social challenges<br>Real-time analytics | Scalable fitness architecture<br>Multiple tracking integrations<br>Long-term engagement design<br>Enhanced motivation system |
 
 </div>
 
