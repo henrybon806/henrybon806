@@ -25,39 +25,45 @@ I split my time between building, mentoring, and research-heavy side projects. A
 ## ✨ Featured Projects
 
 ### 📊 [ARES: FTC Analytics Platform](https://github.com/henrybon806/ares-dashboard) | [Live Site](https://ares-robotics.com)
-**2024–present** | Public stats and Discord bot for FTC teams: OPR, rankings, match insights.
+**2023–Present** | Public stats and Discord bot for FTC teams: OPR, rankings, match insights.
 
-Comprehensive analytics platform serving **500+ robotics teams nationwide** with real-time competition data, team performance metrics, and strategic insights. Built scalable backend infrastructure on Oracle Cloud with automated data pipelines processing match results from multiple tournaments simultaneously.
+| **Overview** | **Impact & Features** |
+|:---|:---|
+| Comprehensive analytics platform serving **500+ robotics teams nationwide** with real-time competition data and strategic insights | **✅ Adopted** by district coordinators during state championships<br>**⚡ Live OPR** calculations and team comparisons<br>**🤖 Discord bot** integration with tournament bracketing |
 
-**Key Features:** Live OPR calculations, team comparison tools, Discord bot integration, tournament bracketing  
-**Impact:** Adopted by district coordinators and used during state championships  
 **Tech Stack:** `TypeScript` `React/Expo` `Supabase` `Postgres` `Discord Bot`
 
+---
+
 ### ♿ [Spike Inclusive: Accessibility Robotics](https://github.com/henrybon806/spike-inclusive) | [App Store](https://apps.apple.com/us/app/spike-inclusive)
-**2024** | Accessible LEGO Spike programming via Bluetooth LE with guided blocks.
+**2023-Present** | Accessible LEGO Spike programming via Bluetooth LE with guided blocks.
 
-iPad app enabling students with disabilities to program LEGO robots through an intuitive, accessibility-first interface. Developed custom Bluetooth Low Energy protocol for seamless robot communication and implemented guided programming blocks designed for diverse learning needs.
+| **Overview** | **Impact & Features** |
+|:---|:---|
+| iPad app enabling students with disabilities to program LEGO robots through an accessibility-first interface with custom BLE protocol | **📱 App Store** deployed in district curricula<br>**♿ Helping 10+** students with disabilities learn robotics<br>**🔗 Custom BLE** command layer with guided programming blocks |
 
-**Key Features:** Custom BLE command layer, accessible UI design, guided programming blocks, real-time robot feedback  
-**Impact:** Deployed on App Store, implemented in district curricula, helping 10+ students with disabilities learn robotics  
 **Tech Stack:** `Expo` `iOS` `BLE` `Education`
 
+---
+
 ### 🤖 [Flokode: Agentic AI Platform](https://github.com/henrybon806/flokode)
-**2024** | AI code-agent platform with multi-step workflows and tool-chain automation.
+**2025-Present** | AI code-agent platform with multi-step workflows and tool-chain automation.
 
-Intelligent code generation platform leveraging agentic AI for complex, multi-step development workflows. Designed automated tool chains that understand context and can execute sophisticated programming tasks with minimal human intervention.
+| **Overview** | **Impact & Features** |
+|:---|:---|
+| Intelligent code generation platform leveraging agentic AI for complex, multi-step development workflows and automated tool chains | **🚀 Streamlines** developer productivity through automation<br>**🧠 Multi-agent** workflow orchestration<br>**⚙️ VS Code** integration with context-aware generation |
 
-**Key Features:** Multi-agent workflow orchestration, context-aware code generation, VS Code integration, automated testing  
-**Impact:** Streamlines developer productivity through intelligent automation  
 **Tech Stack:** `Agentic AI` `TypeScript` `Visual Studio Code`
 
+---
+
 ### 🎮 [FitRealm: Gamified Fitness App](https://github.com/henrybon806/fitrealm)
-**2024** | Gamified fitness app with quests, streaks, and real-time progress.
+**2025-Present** | Gamified fitness app with quests, streaks, and real-time progress.
 
-RPG-style fitness application that transforms workouts into engaging quests and adventures. Built comprehensive user progression system with character classes, achievement unlocks, and social challenges to maintain long-term fitness motivation.
+| **Overview** | **Impact & Features** |
+|:---|:---|
+| RPG-style fitness application transforming workouts into engaging quests with character progression and social challenges | **🏗️ Scalable architecture** supporting multiple fitness integrations<br>**🎯 Character progression** system with achievement unlocks<br>**📊 Real-time analytics** with social challenge tracking |
 
-**Key Features:** Character progression system, workout quest system, social challenges, streak tracking, real-time analytics  
-**Impact:** Designed scalable architecture supporting multiple fitness tracking integrations  
 **Tech Stack:** `React Native` `TypeScript` `Supabase` `Auth`
 
 ---
