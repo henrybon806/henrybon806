@@ -52,25 +52,15 @@ I specialize in **mobile development (React Native, Swift)**, **robotics program
 
 ---
 
-## 💼 Professional & Research Experience
+## 🔗 Let's Connect & Collaborate!
 
-### Research Assistant | Lawrence Berkeley National Lab 🔬
-* Conducting autonomous systems research focused on advanced control automation
-* Implementing **LabVIEW** for software-to-hardware interfacing and experimental system automation
+<div align="center">
 
-### React Native Developer | Mobile Developers of Berkeley (Baro Startup)
-* Designing and implementing web UI components and data workflows for an early-stage startup
-* Trained extensively in React Native and Swift, focusing on ML and database integrations for mobile apps
+| Platform | Link | What You'll Find |
+| :---: | :---: | :--- |
+| 🌐 **Portfolio** | [henrybonomolo.com](https://henrybonomolo.com) | Projects, case studies & technical blog |
+| 💼 **LinkedIn** | [/in/henrybonomolo](https://linkedin.com/in/henrybonomolo) | Professional updates & networking |
+| 📧 **Email** | [hbono@berkeley.edu](mailto:hbono@berkeley.edu) | Direct contact for opportunities |
+| 🤖 **LeetCode** | [/u/hbono4](https://leetcode.com/u/hbono4/) | Coding challenges & problem solving |
 
-### Lead Programmer & President | FIRST Tech Challenge 🏆
-* Directed a 20-member team to **1st place at State Championships for three consecutive years**
-* Architected an autonomous **Java robotics codebase** optimized for reliability and speed
-
----
-
-## 🔗 Connect With Me
-
-* 🌐 **Personal Website:** [henrybonomolo.com](https://henrybonomolo.com)
-* 📧 **Email:** hbono@berkeley.edu
-* 💼 **LinkedIn:** [linkedin.com/in/henrybonomolo](https://linkedin.com/in/henrybonomolo)
-* 🤖 **LeetCode:** [leetcode.com/u/hbono4/](https://leetcode.com/u/hbono4/)
+</div>
