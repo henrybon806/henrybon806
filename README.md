@@ -27,9 +27,13 @@ I split my time between building, mentoring, and research-heavy side projects. A
 ### 📊 [ARES: FTC Analytics Platform](https://github.com/henrybon806/ares-dashboard) | [Live Site](https://ares-robotics.com)
 **2023–Present** | Public stats and Discord bot for FTC teams: OPR, rankings, match insights.
 
+<div align="center">
+
 | **Overview** | **Key Features** | **Impact & Reach** |
 |:---:|:---:|:---:|
 | Analytics platform for robotics competition data | Live OPR calculations<br>Team comparison tools<br>Discord bot integration<br>Tournament bracketing | **500+ teams** nationwide<br>District coordinator adoption<br>State championship usage<br>Real-time match processing |
+
+</div>
 
 **Tech Stack:** `TypeScript` `React/Expo` `Supabase` `Postgres` `Discord Bot`
 
@@ -38,9 +42,13 @@ I split my time between building, mentoring, and research-heavy side projects. A
 ### ♿ [Spike Inclusive: Accessibility Robotics](https://github.com/henrybon806/spike-inclusive) | [App Store](https://apps.apple.com/us/app/spike-inclusive)
 **2023-Present** | Accessible LEGO Spike programming via Bluetooth LE with guided blocks.
 
+<div align="center">
+
 | **Overview** | **Key Features** | **Impact & Reach** |
 |:---:|:---:|:---:|
 | Accessible iPad robotics programming app | Custom BLE command layer<br>Accessible UI design<br>Guided programming blocks<br>Real-time robot feedback | **App Store** deployment<br>District curricula integration<br>**10+ students** with disabilities<br>Inclusive robotics education |
+
+</div>
 
 **Tech Stack:** `Expo` `iOS` `BLE` `Education`
 
@@ -49,9 +57,13 @@ I split my time between building, mentoring, and research-heavy side projects. A
 ### 🤖 [Flokode: Agentic AI Project Manager](https://github.com/henrybon806/flokode)
 **2025-Present** | AI code-agent platform with multi-step workflows and tool-chain automation.
 
+<div align="center">
+
 | **Overview** | **Key Features** | **Impact & Reach** |
 |:---:|:---:|:---:|
 | AI-powered code generation platform | Multi-agent orchestration<br>Context-aware code generation<br>VS Code integration<br>Automated testing workflows | Developer productivity gains<br>Intelligent task automation<br>Complex workflow execution<br>Reduced development cycles |
+
+</div>
 
 **Tech Stack:** `Agentic AI` `TypeScript` `Visual Studio Code`
 
@@ -60,9 +72,13 @@ I split my time between building, mentoring, and research-heavy side projects. A
 ### 🎮 [FitRealm: Gamified Fitness App](https://github.com/henrybon806/fitrealm)
 **2025-Present** | Gamified fitness app with quests, streaks, and real-time progress.
 
+<div align="center">
+
 | **Overview** | **Key Features** | **Impact & Reach** |
 |:---:|:---:|:---:|
 | Gamified fitness app with RPG mechanics | Character progression system<br>Workout quest mechanics<br>Social challenges<br>Real-time analytics | Scalable fitness architecture<br>Multiple tracking integrations<br>Long-term engagement design<br>Enhanced motivation system |
+
+</div>
 
 **Tech Stack:** `React Native` `TypeScript` `Supabase` `Auth`
 
