@@ -108,9 +108,9 @@ Created an RPG-style fitness platform that integrates a detailed character progr
 
 <div align="center">
   
-[![Download Resume](https://img.shields.io/badge/Download%20Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://henrybonomolo.com/resume)
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://henrybonomolo.com/resume.pdf)
 
-*Alternatively, you can always view the full PDF here:* **[resume.henrybonomolo.com](https://henrybonomolo.com/resume)**
+*Alternatively, you can always view the full PDF here:* **[resume.henrybonomolo.com](https://henrybonomolo.com/resume.pdf)**
 
 </div>
 
