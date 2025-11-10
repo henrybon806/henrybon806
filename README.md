@@ -29,7 +29,7 @@ I split my time between building, mentoring, and research-heavy side projects. A
 
 | Overview | Image |
 | :--- | :---: |
-| Built a scalable backend responsible for processing raw tournament data in real-time via a REST API, ensuring high data integrity and low-latency response times. This robust platform provides an advanced analytics dashboard and integrated Discord bot that serve hundreds of competitive robotics teams with critical match insights and performance metrics to drive better strategic decisions. | <img src="https://henrybonomolo.com/assets/assets/images/ares-bot.c41b4a045dfcd1a592d73a987e5f246a.png" width="250" alt="ARES Discord Bot Interface"> |
+| Built a scalable backend responsible for processing raw tournament data in real-time via a REST API, ensuring high data integrity and low-latency response times. This robust platform provides an advanced analytics dashboard and integrated Discord bot that serve hundreds of competitive robotics teams with critical match insights and performance metrics to drive better strategic decisions. | <img src="https://henrybonomolo.com/assets/assets/images/ares-bot.c41b4a045dfcd1a592d73a987e5f246a.png" width="400" alt="ARES Discord Bot Interface"> |
 
 * **Tech Stack:** `TypeScript` `React/Expo` `Supabase` `Postgres` `Discord Bot`
 * **Key Features:** Live OPR calculations, Team comparison tools, Discord bot integration, Tournament bracketing.
@@ -42,7 +42,7 @@ I split my time between building, mentoring, and research-heavy side projects. A
 
 | Overview | Image |
 | :--- | :---: |
-| Developed a custom **Bluetooth LE protocol** to establish reliable, low-latency communication with the LEGO Spike robots, overcoming complex hardware constraints. The project features an accessible iPad interface that uses a guided block system, specifically designed to enable students with diverse abilities to successfully program, experiment, and interact with robotics in an inclusive learning environment. | <img src="https://henrybonomolo.com/assets/assets/images/spike-inclusive.1ac65808d68281e2edea148610d0f951.png" width="250" alt="Spike Inclusive App Interface"> |
+| Developed a custom **Bluetooth LE protocol** to establish reliable, low-latency communication with the LEGO Spike robots, overcoming complex hardware constraints. The project features an accessible iPad interface that uses a guided block system, specifically designed to enable students with diverse abilities to successfully program, experiment, and interact with robotics in an inclusive learning environment. | <img src="https://henrybonomolo.com/assets/assets/images/spike-inclusive.1ac65808d68281e2edea148610d0f951.png" width="400" alt="Spike Inclusive App Interface"> |
 
 * **Tech Stack:** `Expo` `iOS` `BLE` `Education`
 * **Key Features:** Custom BLE command layer, Accessible UI design, Guided programming blocks, Real-time robot feedback.
@@ -55,7 +55,7 @@ I split my time between building, mentoring, and research-heavy side projects. A
 
 | Overview | Image |
 | :--- | :---: |
-| Designed and implemented an **agentic AI system** capable of complex multi-agent orchestration and delegation for intricate software development tasks. The platform uses context-aware automation, integrating directly with developer tools like VS Code to intelligently execute multi-step workflows, significantly reducing manual effort, ensuring consistency, and accelerating development cycles. | <img src="https://via.placeholder.com/250x150?text=REPLACE+WITH+DIRECT+IMG+LINK" width="250" alt="Flokode Agent Manager Workflow Placeholder"> |
+| Designed and implemented an **agentic AI system** capable of complex multi-agent orchestration and delegation for intricate software development tasks. The platform uses context-aware automation, integrating directly with developer tools like VS Code to intelligently execute multi-step workflows, significantly reducing manual effort, ensuring consistency, and accelerating development cycles. | <img src="https://via.placeholder.com/400x250?text=REPLACE+WITH+DIRECT+IMG+LINK" width="400" alt="Flokode Agent Manager Workflow Placeholder"> |
 
 * **Tech Stack:** `Agentic AI` `TypeScript` `Visual Studio Code`
 * **Key Features:** Multi-agent orchestration, Context-aware code generation, VS Code integration, Automated testing workflows.
@@ -68,7 +68,7 @@ I split my time between building, mentoring, and research-heavy side projects. A
 
 | Overview | Image |
 | :--- | :---: |
-| Created an **RPG-style fitness platform** that integrates a detailed character progression system, empowering users through virtual rewards, experience points, and leveling mechanics for real-world activity. The application utilizes motivational design elements like streaks, social challenges, and leaderboard integration to significantly enhance long-term workout motivation and user engagement. | <img src="https://henrybonomolo.com/assets/assets/images/fit-realm.f83dace9a1df113d96988db114bbc5d0.png" width="250" alt="FitRealm App Screenshot"> |
+| Created an **RPG-style fitness platform** that integrates a detailed character progression system, empowering users through virtual rewards, experience points, and leveling mechanics for real-world activity. The application utilizes motivational design elements like streaks, social challenges, and leaderboard integration to significantly enhance long-term workout motivation and user engagement. | <img src="https://henrybonomolo.com/assets/assets/images/fit-realm.f83dace9a1df113d96988db114bbc5d0.png" width="400" alt="FitRealm App Screenshot"> |
 
 * **Tech Stack:** `React Native` `TypeScript` `Supabase` `Auth`
 * **Key Features:** Character progression system, Workout quest mechanics, Social challenges, Real-time analytics.
