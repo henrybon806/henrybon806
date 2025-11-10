@@ -20,19 +20,6 @@
 
 ---
 
-## 🛠️ Expertise & Technologies
-
-I specialize in **mobile development (React Native, Swift)**, **robotics programming (Java)**, and **backend scalability (OCI, Supabase)**.
-
-| Category | Key Technologies |
-| :--- | :--- |
-| **Languages** | **Java**, **Python**, Swift, **TypeScript**, JavaScript, SQL |
-| **Mobile/Web Frameworks** | **React Native**, React, Node.js, Express, Tailwind CSS |
-| **Cloud & Infrastructure** | **Oracle Cloud Infrastructure (OCI)**, AWS, Azure Cosmos DB, Docker, GitHub Actions |
-| **Databases/Tools** | Supabase, Firebase, PostgreSQL, MongoDB, REST + GraphQL APIs |
-
----
-
 ## ✨ Featured Projects
 
 ### 🤖 [Flokode: Agentic AI Code-Agent Platform](https://github.com/henrybon806/flokode)
@@ -52,12 +39,38 @@ I specialize in **mobile development (React Native, Swift)**, **robotics program
 
 ---
 
+## 🛠️ Expertise & Technologies
+
+I specialize in **mobile development (React Native, Swift)**, **robotics programming (Java)**, and **backend scalability (OCI, Supabase)**.
+
+| Category | Key Technologies |
+| :--- | :--- |
+| **Languages** | **Java**, **Python**, Swift, **TypeScript**, JavaScript, SQL |
+| **Mobile/Web Frameworks** | **React Native**, React, Node.js, Express, Tailwind CSS |
+| **Cloud & Infrastructure** | **Oracle Cloud Infrastructure (OCI)**, AWS, Azure Cosmos DB, Docker, GitHub Actions |
+| **Databases/Tools** | Supabase, Firebase, PostgreSQL, MongoDB, REST + GraphQL APIs |
+
+---
+
 ## 🔗 Let's Connect & Collaborate!
 
 <div align="center">
 
-| 🌐 **Portfolio** | 💼 **LinkedIn** | 📧 **Email** | 🤖 **LeetCode** |
-| :---: | :---: | :---: | :---: |
-| [henrybonomolo.com](https://henrybonomolo.com) | [linkedin.com/in/henrybonomolo](https://linkedin.com/in/henrybonomolo) | [hbono@berkeley.edu](mailto:hbono@berkeley.edu) | [leetcode.com/u/hbono4](https://leetcode.com/u/hbono4/) |
+| 📧 **Email** | 💼 **LinkedIn** | � **GitHub** |
+| :---: | :---: | :---: |
+| **Email** | **LinkedIn** | **GitHub** |
+| [hbono@berkeley.edu](mailto:hbono@berkeley.edu) | [linkedin.com/in/henrybonomolo](https://linkedin.com/in/henrybonomolo) | [github.com/henrybon806](https://github.com/henrybon806) |
+
+---
+
+**I'm interested in internships, research, and hands-on builds or projects. I also mentor robotics teams and enjoy working with diverse & curious teams.**
+
+<div align="center">
+  
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://henrybonomolo.com/resume)
+
+*Alternatively, you can always view the full PDF here:* **[resume.henrybonomolo.com](https://henrybonomolo.com/resume)**
+
+</div>
 
 </div>
