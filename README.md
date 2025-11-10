@@ -28,7 +28,7 @@ I split my time between building, mentoring, and research-heavy side projects. A
 **2023–Present** | Public stats and Discord bot for FTC teams: OPR, rankings, match insights.
 
 | **Overview** | **Key Features** | **Impact & Reach** |
-|:---|:---|:---|
+|:---:|:---:|:---:|
 | Comprehensive analytics platform with real-time competition data and strategic insights for robotics teams | Live OPR calculations<br>Team comparison tools<br>Discord bot integration<br>Tournament bracketing | **500+ teams** using nationwide<br>Adopted by district coordinators<br>Used during state championships<br>Real-time match processing |
 
 **Tech Stack:** `TypeScript` `React/Expo` `Supabase` `Postgres` `Discord Bot`
@@ -39,7 +39,7 @@ I split my time between building, mentoring, and research-heavy side projects. A
 **2023-Present** | Accessible LEGO Spike programming via Bluetooth LE with guided blocks.
 
 | **Overview** | **Key Features** | **Impact & Reach** |
-|:---|:---|:---|
+|:---:|:---:|:---:|
 | iPad app enabling students with disabilities to program LEGO robots through accessibility-first interface | Custom BLE command layer<br>Accessible UI design<br>Guided programming blocks<br>Real-time robot feedback | **App Store** deployment<br>District curricula integration<br>**10+ students** with disabilities helped<br>Inclusive robotics education |
 
 **Tech Stack:** `Expo` `iOS` `BLE` `Education`
@@ -50,7 +50,7 @@ I split my time between building, mentoring, and research-heavy side projects. A
 **2025-Present** | AI code-agent platform with multi-step workflows and tool-chain automation.
 
 | **Overview** | **Key Features** | **Impact & Reach** |
-|:---|:---|:---|
+|:---:|:---:|:---:|
 | Intelligent code generation platform leveraging agentic AI for complex development workflows | Multi-agent orchestration<br>Context-aware code generation<br>VS Code integration<br>Automated testing workflows | Developer productivity gains<br>Intelligent automation<br>Complex task execution<br>Reduced development time |
 
 **Tech Stack:** `Agentic AI` `TypeScript` `Visual Studio Code`
@@ -61,7 +61,7 @@ I split my time between building, mentoring, and research-heavy side projects. A
 **2025-Present** | Gamified fitness app with quests, streaks, and real-time progress.
 
 | **Overview** | **Key Features** | **Impact & Reach** |
-|:---|:---|:---|
+|:---:|:---:|:---:|
 | RPG-style fitness application transforming workouts into engaging quests and adventures | Character progression system<br>Workout quest mechanics<br>Social challenges<br>Real-time analytics | Scalable fitness architecture<br>Multiple tracking integrations<br>Long-term engagement design<br>Gamified motivation system |
 
 **Tech Stack:** `React Native` `TypeScript` `Supabase` `Auth`
