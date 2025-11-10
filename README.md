@@ -24,7 +24,7 @@ I split my time between building, mentoring, and research-heavy side projects. A
 
 ## ✨ Featured Projects
 
-### 📊 ARES: FTC Analytics Platform | [Live Site](https://ares-bot.com)
+### ARES: FTC Analytics Platform | [Live Site](https://ares-bot.com)
 **2023–Present** | Public stats and Discord bot for FTC teams: OPR, rankings, match insights.
 
 | Overview | Image |
