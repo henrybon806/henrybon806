@@ -29,9 +29,9 @@ I split my time between building, mentoring, and research-heavy side projects. A
 
 <div align="center">
 
-| **Overview** | **Key Features** | **Impact & Reach** |
+| **Overview** | **Key&nbsp;Features&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** | **Impact&nbsp;&&nbsp;Reach&nbsp;&nbsp;&nbsp;&nbsp;** |
 |:---:|:---:|:---:|
-| Built a scalable backend processing tournament data via a REST API to serve real-time match insights. The platform features an analytics dashboard and Discord bot, helping robotics teams with performance metrics. | Live OPR calculations<br>Team comparison tools<br>Discord bot integration<br>Tournament bracketing | **500+ teams** nationwide<br>District coordinator adoption<br>State championship usage<br>Real-time match processing |
+| Built a **scalable backend** responsible for processing raw tournament data in real-time via a REST API. This platform provides an advanced analytics dashboard and integrated Discord bot that serve hundreds of competitive robotics teams with critical match insights and performance metrics. | Live OPR calculations<br>Team comparison tools<br>Discord bot integration<br>Tournament bracketing | **500+ teams** nationwide<br>District coordinator adoption<br>State championship usage<br>Real-time match processing |
 
 </div>
 
@@ -44,9 +44,9 @@ I split my time between building, mentoring, and research-heavy side projects. A
 
 <div align="center">
 
-| **Overview** | **Key Features** | **Impact & Reach** |
+| **Overview** | **Key&nbsp;Features&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** | **Impact&nbsp;&&nbsp;Reach&nbsp;&nbsp;&nbsp;&nbsp;** |
 |:---:|:---:|:---:|
-| Developed a custom Bluetooth LE protocol to enable reliable communication with LEGO robots. This project created an accessible iPad interface that allows students with disabilities to program robots through guided blocks. | Custom BLE command layer<br>Accessible UI design<br>Guided programming blocks<br>Real-time robot feedback | **App Store** deployment<br>District curricula integration<br>**10+ students** with disabilities<br>Inclusive robotics education |
+| Developed a custom **Bluetooth LE protocol** to establish reliable, low-latency communication with the LEGO Spike robots. The project features an accessible iPad interface that uses a guided block system, specifically designed to enable students with diverse abilities to successfully program and interact with robots. | Custom BLE command layer<br>Accessible UI design<br>Guided programming blocks<br>Real-time robot feedback | **App Store** deployment<br>District curricula integration<br>**10+ students** with disabilities<br>Inclusive robotics education |
 
 </div>
 
@@ -59,9 +59,9 @@ I split my time between building, mentoring, and research-heavy side projects. A
 
 <div align="center">
 
-| **Overview** | **Key Features** | **Impact & Reach** |
+| **Overview** | **Key&nbsp;Features&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** | **Impact&nbsp;&&nbsp;Reach&nbsp;&nbsp;&nbsp;&nbsp;** |
 |:---:|:---:|:---:|
-| Designed an agentic AI system capable of multi-agent orchestration for complex development tasks. The platform provides context-aware automation for complex workflows and intelligent task execution, reducing development cycles. | Multi-agent orchestration<br>Context-aware code generation<br>VS Code integration<br>Automated testing workflows | Developer productivity gains<br>Intelligent task automation<br>Complex workflow execution<br>Reduced development cycles |
+| Designed and implemented an **agentic AI system** capable of complex multi-agent orchestration and delegation for software development tasks. The platform uses context-aware automation, integrating directly with developer tools to intelligently execute multi-step workflows, significantly reducing manual effort and development cycles. | Multi-agent orchestration<br>Context-aware code generation<br>VS Code integration<br>Automated testing workflows | Developer productivity gains<br>Intelligent task automation<br>Complex workflow execution<br>Reduced development cycles |
 
 </div>
 
@@ -74,9 +74,9 @@ I split my time between building, mentoring, and research-heavy side projects. A
 
 <div align="center">
 
-| **Overview** | **Key Features** | **Impact & Reach** |
+| **Overview** | **Key&nbsp;Features&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** | **Impact&nbsp;&&nbsp;Reach&nbsp;&nbsp;&nbsp;&nbsp;** |
 |:---:|:---:|:---:|
-| Created an RPG-style fitness platform featuring a character progression system and social challenges. The design enhances workout motivation and long-term engagement for users. | Character progression system<br>Workout quest mechanics<br>Social challenges<br>Real-time analytics | Scalable fitness architecture<br>Multiple tracking integrations<br>Long-term engagement design<br>Enhanced motivation system |
+| Created an **RPG-style fitness platform** that integrates a detailed character progression system, empowering users through virtual rewards for real-world activity. The application utilizes motivational design elements like streaks, social challenges, and leveling mechanics to significantly enhance long-term workout motivation and engagement. | Character progression system<br>Workout quest mechanics<br>Social challenges<br>Real-time analytics | Scalable fitness architecture<br>Multiple tracking integrations<br>Long-term engagement design<br>Enhanced motivation system |
 
 </div>
 
