@@ -1,16 +1,20 @@
 # Henry J. Bonomolo 👨‍💻🐻
 
-## Computer Science @ UC Berkeley | Robotics | Autonomous Systems | Full-Stack Mobile Dev
+## Computer Science @ UC Berkeley | Autonomous Systems | Full-Stack Mobile Dev
 
 👋 I'm a Computer Science student at the University of California, Berkeley, passionate about designing and implementing systems that push the boundaries of automation and user-centric design. I have hands-on experience across the stack, from low-level robotics code to scalable cloud infrastructure and user-facing mobile applications.
 
 ---
 
-### 🚀 Quick Stats (Self-Updating Badges - Replace Placeholders)
+### 🚀 GitHub Activity
 
-| Stats | Languages |
-| :---: | :---: |
-| [![Henry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=henrybon806&show_icons=true&theme=vue)](https://github.com/henrybon806) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrybon806&layout=compact&theme=vue)](https://github.com/henrybon806) |
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=henrybon806&theme=tokyonight&hide_border=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=henrybon806&theme=tokyo-night&hide_border=true)
+
+</div>
 
 ---
 
