@@ -10,9 +10,9 @@
 
 <div align="center">
 
-![Henry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=henrybon806&show_icons=true&theme=github_light&hide_border=true&bg_color=f6f8fa&title_color=24292f&text_color=57606a&icon_color=656d76)
-
-![henrybon806's Streak](https://github-readme-streak-stats.herokuapp.com/?user=henrybon806&theme=default&hide_border=true&background=f6f8fa&stroke=d1d9e0&ring=0969da&fire=0969da&currStreakLabel=24292f)
+| GitHub Stats | Streak Stats |
+| :---: | :---: |
+| ![Henry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=henrybon806&show_icons=true&theme=default&hide_border=true&bg_color=f6f8fa&title_color=24292f&text_color=57606a&icon_color=0969da) | ![henrybon806's Streak](https://github-readme-streak-stats.herokuapp.com/?user=henrybon806&theme=default&hide_border=true&background=f6f8fa&stroke=d1d9e0&ring=0969da&fire=0969da&currStreakLabel=24292f) |
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=henrybon806&theme=github-light&hide_border=true&bg_color=f6f8fa&color=0969da&line=0969da&point=24292f)
 
