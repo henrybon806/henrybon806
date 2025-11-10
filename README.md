@@ -1,6 +1,6 @@
 # Henry J. Bonomolo 👨‍💻🐻
 
-## Computer Science @ UC Berkeley | Autonomous Systems | Full-Stack Mobile Dev
+## Computer Science @ UC Berkeley | Mobile Developers of Berkeley | Lawrence Berkeley National Lab 
 
 👋 Hi! I'm Henry. I'm a Computer Science student at the University of California, Berkeley, who is passionate building systems that solve real problems. Most of my work sits where education, data, and robotics overlap. I built ARES (analytical robotics evaluation system), a public FTC analytics platform and Discord bot used by hundreds of robotics teams, and Spike Inclusive, an iPad app that helps students program LEGO Spike robots in more accessible ways.
 
