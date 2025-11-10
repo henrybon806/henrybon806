@@ -31,7 +31,7 @@ I split my time between building, mentoring, and research-heavy side projects. A
 
 | **Overview** | **Key Features** | **Impact & Reach** |
 |:---:|:---:|:---:|
-| Built scalable backend processing tournament data via REST API, creating real-time analytics dashboard for robotics teams | Live OPR calculations<br>Team comparison tools<br>Discord bot integration<br>Tournament bracketing | **500+ teams** nationwide<br>District coordinator adoption<br>State championship usage<br>Real-time match processing |
+| Built scalable backend processing tournament data via REST API.<br><br>Created real-time analytics dashboard serving robotics teams with match insights and performance metrics. | Live OPR calculations<br>Team comparison tools<br>Discord bot integration<br>Tournament bracketing | **500+ teams** nationwide<br>District coordinator adoption<br>State championship usage<br>Real-time match processing |
 
 </div>
 
@@ -46,7 +46,7 @@ I split my time between building, mentoring, and research-heavy side projects. A
 
 | **Overview** | **Key Features** | **Impact & Reach** |
 |:---:|:---:|:---:|
-| Developed custom Bluetooth LE protocol enabling accessible robot programming through intuitive iPad interface | Custom BLE command layer<br>Accessible UI design<br>Guided programming blocks<br>Real-time robot feedback | **App Store** deployment<br>District curricula integration<br>**10+ students** with disabilities<br>Inclusive robotics education |
+| Developed custom Bluetooth LE protocol for LEGO robot communication.<br><br>Created accessible iPad interface enabling students with disabilities to program robots through guided blocks. | Custom BLE command layer<br>Accessible UI design<br>Guided programming blocks<br>Real-time robot feedback | **App Store** deployment<br>District curricula integration<br>**10+ students** with disabilities<br>Inclusive robotics education |
 
 </div>
 
@@ -61,7 +61,7 @@ I split my time between building, mentoring, and research-heavy side projects. A
 
 | **Overview** | **Key Features** | **Impact & Reach** |
 |:---:|:---:|:---:|
-| Designed agentic AI system orchestrating multi-step development workflows with context-aware automation | Multi-agent orchestration<br>Context-aware code generation<br>VS Code integration<br>Automated testing workflows | Developer productivity gains<br>Intelligent task automation<br>Complex workflow execution<br>Reduced development cycles |
+| Designed agentic AI system with multi-agent orchestration capabilities.<br><br>Built context-aware automation for complex development workflows and intelligent task execution. | Multi-agent orchestration<br>Context-aware code generation<br>VS Code integration<br>Automated testing workflows | Developer productivity gains<br>Intelligent task automation<br>Complex workflow execution<br>Reduced development cycles |
 
 </div>
 
