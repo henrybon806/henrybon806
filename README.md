@@ -39,16 +39,34 @@
 
 ---
 
-## 🛠️ Expertise & Technologies
+## 🛠️ Technical Arsenal
 
-I specialize in **mobile development (React Native, Swift)**, **robotics programming (Java)**, and **backend scalability (OCI, Supabase)**.
+### 💻 Core Specializations
+- 📱 **Mobile Development** → Building accessible iOS apps with React Native & Swift
+- 🤖 **Robotics Programming** → Autonomous systems & competition-grade Java robotics
+- ☁️ **Backend Architecture** → Scalable cloud infrastructure with OCI & modern databases
+- 🔬 **Research & Automation** → LabVIEW integration & experimental system control
 
-| Category | Key Technologies |
-| :--- | :--- |
-| **Languages** | **Java**, **Python**, Swift, **TypeScript**, JavaScript, SQL |
-| **Mobile/Web Frameworks** | **React Native**, React, Node.js, Express, Tailwind CSS |
-| **Cloud & Infrastructure** | **Oracle Cloud Infrastructure (OCI)**, AWS, Azure Cosmos DB, Docker, GitHub Actions |
-| **Databases/Tools** | Supabase, Firebase, PostgreSQL, MongoDB, REST + GraphQL APIs |
+<div align="center">
+
+### 🔧 Technology Stack
+
+| 🖥️ **Languages** | 📱 **Mobile & Web** | ☁️ **Cloud & DevOps** | 🗄️ **Data & APIs** |
+|:---:|:---:|:---:|:---:|
+| Java | React Native | Oracle Cloud (OCI) | Supabase |
+| Python | React | AWS | PostgreSQL |
+| Swift | Node.js | Docker | MongoDB |
+| TypeScript | Express | GitHub Actions | Firebase |
+| JavaScript | Tailwind CSS | Azure Cosmos DB | REST APIs |
+| SQL | iOS Development | CI/CD Pipelines | GraphQL |
+
+</div>
+
+### 🎯 What I Build With
+- **AI & Automation**: Agentic AI platforms, VS Code extensions, automated workflows
+- **Accessibility Tech**: BLE-enabled robotics apps, inclusive learning platforms  
+- **Data Platforms**: Real-time dashboards, analytics APIs, Discord bots
+- **Research Tools**: Laboratory automation, experimental control systems
 
 ---
 
