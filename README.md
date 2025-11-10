@@ -2,11 +2,9 @@
 
 ## Computer Science @ UC Berkeley | Autonomous Systems | Full-Stack Mobile Dev
 
-👋 Hi! I’m Henry. I'm a Computer Science student at the University of California, Berkeley, who is passionate building systems that solve real problems. Most of my work sits where education, data, and robotics overlap. I built ARES (analytical robotics evaluation system), a public FTC analytics platform and Discord bot used by hundreds of robotics teams, and Spike Inclusive, an iPad app that helps students program LEGO Spike robots in more accessible ways. What keeps me hooked is turning chaotic ideas into things that actually make a difference for teams on the ground.
+👋 Hi! I'm Henry. I'm a Computer Science student at the University of California, Berkeley, who is passionate building systems that solve real problems. Most of my work sits where education, data, and robotics overlap. I built ARES (analytical robotics evaluation system), a public FTC analytics platform and Discord bot used by hundreds of robotics teams, and Spike Inclusive, an iPad app that helps students program LEGO Spike robots in more accessible ways.
 
-I split my time between building, mentoring, and research-heavy side projects. At Energesque I designed a solar data API pipeline, and at the University of Arizona I helped build an Android app that measures heart activity for stress research. I still work closely with the FTC community I came from (ARES started as a tool I wished I had while leading and mentoring robotics teams).
-
-Lately I’ve been diving into GPU-accelerated design automation, machine learning for decision-making, and the art of keeping data pipelines and interfaces simple enough to trust. I care about clarity, reproducibility, and actually shipping things. If it helps people build, learn, or compete better, that’s where I want to be.
+I split my time between building, mentoring, and research-heavy side projects. At Energesque I designed a solar data API pipeline, and at the University of Arizona I helped build an Android app that measures heart activity for stress research. Lately I've been diving into GPU-accelerated design automation, machine learning for decision-making, and the art of keeping data pipelines simple enough to trust. What keeps me hooked is turning chaotic ideas into things that actually make a difference for teams on the ground.
 
 ---
 
@@ -26,20 +24,41 @@ Lately I’ve been diving into GPU-accelerated design automation, machine learni
 
 ## ✨ Featured Projects
 
-### 🤖 [Flokode: Agentic AI Code-Agent Platform](https://github.com/henrybon806/flokode)
-* An AI code-agent platform leveraging multi-step workflows and tool-chain automation for developer productivity
-* **Role:** Architect/Developer
-* **Tech Stack:** Agentic AI, TypeScript, Visual Studio Code
+### 📊 [ARES: FTC Analytics Platform](https://github.com/henrybon806/ares-dashboard) | [Live Site](https://ares-robotics.com)
+**2024–present** | Public stats and Discord bot for FTC teams: OPR, rankings, match insights.
 
-### ♿ [Spike Inclusive: Accessibility Robotics App](https://github.com/henrybon806/spike-inclusive) | [App Store](https://apps.apple.com/us/app/spike-inclusive)
-* iPad app enabling students with disabilities to program LEGO robots via a custom **Bluetooth Low Energy (BLE)** command layer
-* **Impact:** Deployed on the App Store and implemented in district curricula, helping 10+ challenged students learn robotics
-* **Tech Stack:** Bluetooth Low Energy (BLE), React Native, Accessibility
+Comprehensive analytics platform serving **500+ robotics teams nationwide** with real-time competition data, team performance metrics, and strategic insights. Built scalable backend infrastructure on Oracle Cloud with automated data pipelines processing match results from multiple tournaments simultaneously.
 
-### 📊 [ARES: Real-Time FTC Robotics Dashboard](https://github.com/henrybon806/ares-dashboard) | [Live Site](https://ares-robotics.com)
-* A statistics dashboard, website, and Discord bot serving over **500+ students nationwide**
-* **Backend:** Built a scalable backend on **Oracle Cloud Infrastructure (OCI)** for match analytics and OPR rankings via a REST API
-* **Tech Stack:** Python, Oracle Cloud Infrastructure, Supabase Studio
+**Key Features:** Live OPR calculations, team comparison tools, Discord bot integration, tournament bracketing  
+**Impact:** Adopted by district coordinators and used during state championships  
+**Tech Stack:** `TypeScript` `React/Expo` `Supabase` `Postgres` `Discord Bot`
+
+### ♿ [Spike Inclusive: Accessibility Robotics](https://github.com/henrybon806/spike-inclusive) | [App Store](https://apps.apple.com/us/app/spike-inclusive)
+**2024** | Accessible LEGO Spike programming via Bluetooth LE with guided blocks.
+
+iPad app enabling students with disabilities to program LEGO robots through an intuitive, accessibility-first interface. Developed custom Bluetooth Low Energy protocol for seamless robot communication and implemented guided programming blocks designed for diverse learning needs.
+
+**Key Features:** Custom BLE command layer, accessible UI design, guided programming blocks, real-time robot feedback  
+**Impact:** Deployed on App Store, implemented in district curricula, helping 10+ students with disabilities learn robotics  
+**Tech Stack:** `Expo` `iOS` `BLE` `Education`
+
+### 🤖 [Flokode: Agentic AI Platform](https://github.com/henrybon806/flokode)
+**2024** | AI code-agent platform with multi-step workflows and tool-chain automation.
+
+Intelligent code generation platform leveraging agentic AI for complex, multi-step development workflows. Designed automated tool chains that understand context and can execute sophisticated programming tasks with minimal human intervention.
+
+**Key Features:** Multi-agent workflow orchestration, context-aware code generation, VS Code integration, automated testing  
+**Impact:** Streamlines developer productivity through intelligent automation  
+**Tech Stack:** `Agentic AI` `TypeScript` `Visual Studio Code`
+
+### 🎮 [FitRealm: Gamified Fitness App](https://github.com/henrybon806/fitrealm)
+**2024** | Gamified fitness app with quests, streaks, and real-time progress.
+
+RPG-style fitness application that transforms workouts into engaging quests and adventures. Built comprehensive user progression system with character classes, achievement unlocks, and social challenges to maintain long-term fitness motivation.
+
+**Key Features:** Character progression system, workout quest system, social challenges, streak tracking, real-time analytics  
+**Impact:** Designed scalable architecture supporting multiple fitness tracking integrations  
+**Tech Stack:** `React Native` `TypeScript` `Supabase` `Auth`
 
 ---
 
