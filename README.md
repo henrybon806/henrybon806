@@ -2,7 +2,11 @@
 
 ## Computer Science @ UC Berkeley | Autonomous Systems | Full-Stack Mobile Dev
 
-👋 I'm a Computer Science student at the University of California, Berkeley, passionate about designing and implementing systems that push the boundaries of automation and user-centric design. I have hands-on experience across the stack, from low-level robotics code to scalable cloud infrastructure and user-facing mobile applications.
+👋 Hi! I’m Henry. I'm a Computer Science student at the University of California, Berkeley, who is passionate building systems that solve real problems. Most of my work sits where education, data, and robotics overlap. I built ARES (analytical robotics evaluation system), a public FTC analytics platform and Discord bot used by hundreds of robotics teams, and Spike Inclusive, an iPad app that helps students program LEGO Spike robots in more accessible ways. What keeps me hooked is turning chaotic ideas into things that actually make a difference for teams on the ground.
+
+I split my time between building, mentoring, and research-heavy side projects. At Energesque I designed a solar data API pipeline, and at the University of Arizona I helped build an Android app that measures heart activity for stress research. I still work closely with the FTC community I came from (ARES started as a tool I wished I had while leading and mentoring robotics teams).
+
+Lately I’ve been diving into GPU-accelerated design automation, machine learning for decision-making, and the art of keeping data pipelines and interfaces simple enough to trust. I care about clarity, reproducibility, and actually shipping things. If it helps people build, learn, or compete better, that’s where I want to be.
 
 ---
 
