@@ -1,17 +1,17 @@
-# henrybon806
+# Henry Bonomolo
 
 Welcome to my GitHub profile! 👋
 
 ## About Me
 
-I'm a passionate developer interested in building innovative solutions and learning new technologies.
+I'm a passionate software developer with experience in full-stack development, machine learning, and AI applications. I love building innovative solutions and working with cutting-edge technologies.
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** [Add your programming languages here]
-- **Frameworks:** [Add frameworks you work with]
-- **Tools:** [Add tools and technologies you use]
-- **Databases:** [Add databases you work with]
+- **Languages:** Python, JavaScript, TypeScript, Java, C++, HTML/CSS
+- **Frameworks:** React, Node.js, Express, Django, Flask
+- **Tools:** Git, Docker, VS Code, AWS, Firebase
+- **Databases:** PostgreSQL, MongoDB, MySQL
 
 ## 📈 GitHub Stats
 
@@ -21,39 +21,39 @@ I'm a passionate developer interested in building innovative solutions and learn
 
 ## 🚀 Featured Projects
 
-### [Project Name 1](link-to-project)
-Brief description of your project and the technologies used.
+### Web Development Projects
+Full-stack applications built with modern technologies and best practices.
 
-### [Project Name 2](link-to-project)
-Brief description of your project and the technologies used.
+### Machine Learning & AI
+Exploring artificial intelligence applications and data science projects.
 
-### [Project Name 3](link-to-project)
-Brief description of your project and the technologies used.
+### Open Source Contributions
+Contributing to the developer community through open source projects.
 
 ## 🌱 Currently Learning
 
-- [Technology/Framework you're currently learning]
-- [Another technology you're exploring]
+- Advanced AI/ML frameworks and model deployment
+- Cloud architecture and DevOps practices
+- Modern web development patterns and best practices
 
 ## 💼 Experience
 
-- **[Job Title]** at **[Company Name]** (Start Date - End Date)
-  - Brief description of your role and achievements
-- **[Previous Role]** at **[Previous Company]** (Start Date - End Date)
-  - Brief description of your role and achievements
+- **Software Developer** - Building applications and contributing to various projects
+  - Full-stack development with modern frameworks
+  - Machine learning and AI application development
+  - Collaborative development and version control
 
 ## 🎯 Goals for 2025
 
-- [ ] [Goal 1]
-- [ ] [Goal 2]
-- [ ] [Goal 3]
+- [ ] Contribute to major open source projects
+- [ ] Build and deploy production-ready AI applications
+- [ ] Expand expertise in cloud technologies and DevOps
 
 ## 📫 How to Reach Me
 
-- **Email:** [your.email@example.com]
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Twitter:** [@yourusername](https://twitter.com/yourusername)
-- **Portfolio:** [Your Portfolio Website](https://yourwebsite.com)
+- **GitHub:** [@henrybon806](https://github.com/henrybon806)
+- **LinkedIn:** Connect with me for professional opportunities
+- **Email:** Available upon request for collaboration
 
 ## 🤝 Let's Connect!
 
