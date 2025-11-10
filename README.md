@@ -39,19 +39,20 @@
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Expertise & Technologies
 
-### 💻 Core Specializations
-- 📱 **Mobile Development** → Building accessible iOS apps with React Native & Swift
-- 🤖 **Robotics Programming** → Autonomous systems & competition-grade Java robotics
-- ☁️ **Backend Architecture** → Scalable cloud infrastructure with OCI & modern databases
-- 🔬 **Research & Automation** → LabVIEW integration & experimental system control
+| **Core Specializations** | **What I Build** |
+| :--- | :--- |
+| **Mobile Development** - iOS apps with React Native & Swift | **AI & Automation** - Agentic platforms, VS Code extensions |
+| **Robotics Programming** - Java-based autonomous systems | **Accessibility Tech** - BLE robotics apps, inclusive platforms |
+| **Backend Architecture** - Scalable cloud infrastructure with OCI | **Data Platforms** - Real-time dashboards, analytics APIs |
+| **Research & Automation** - LabVIEW experimental control systems | **Research Tools** - Laboratory automation, Discord bots |
 
 <div align="center">
 
-### 🔧 Technology Stack
+### Technology Stack
 
-| 🖥️ **Languages** | 📱 **Mobile & Web** | ☁️ **Cloud & DevOps** | 🗄️ **Data & APIs** |
+| **Languages** | **Mobile & Web** | **Cloud & DevOps** | **Data & APIs** |
 |:---:|:---:|:---:|:---:|
 | Java | React Native | Oracle Cloud (OCI) | Supabase |
 | Python | React | AWS | PostgreSQL |
@@ -61,12 +62,6 @@
 | SQL | iOS Development | CI/CD Pipelines | GraphQL |
 
 </div>
-
-### 🎯 What I Build With
-- **AI & Automation**: Agentic AI platforms, VS Code extensions, automated workflows
-- **Accessibility Tech**: BLE-enabled robotics apps, inclusive learning platforms  
-- **Data Platforms**: Real-time dashboards, analytics APIs, Discord bots
-- **Research Tools**: Laboratory automation, experimental control systems
 
 ---
 
