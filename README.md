@@ -29,7 +29,7 @@ I split my time between building, mentoring, and research-heavy side projects. A
 
 | **Overview** | **Key Features** | **Impact & Reach** |
 |:---:|:---:|:---:|
-| Comprehensive analytics platform with real-time competition data and strategic insights for robotics teams | Live OPR calculations<br>Team comparison tools<br>Discord bot integration<br>Tournament bracketing | **500+ teams** using nationwide<br>Adopted by district coordinators<br>Used during state championships<br>Real-time match processing |
+| Analytics platform for robotics competition data | Live OPR calculations<br>Team comparison tools<br>Discord bot integration<br>Tournament bracketing | **500+ teams** nationwide<br>District coordinator adoption<br>State championship usage<br>Real-time match processing |
 
 **Tech Stack:** `TypeScript` `React/Expo` `Supabase` `Postgres` `Discord Bot`
 
@@ -40,18 +40,18 @@ I split my time between building, mentoring, and research-heavy side projects. A
 
 | **Overview** | **Key Features** | **Impact & Reach** |
 |:---:|:---:|:---:|
-| iPad app enabling students with disabilities to program LEGO robots through accessibility-first interface | Custom BLE command layer<br>Accessible UI design<br>Guided programming blocks<br>Real-time robot feedback | **App Store** deployment<br>District curricula integration<br>**10+ students** with disabilities helped<br>Inclusive robotics education |
+| Accessible iPad robotics programming app | Custom BLE command layer<br>Accessible UI design<br>Guided programming blocks<br>Real-time robot feedback | **App Store** deployment<br>District curricula integration<br>**10+ students** with disabilities<br>Inclusive robotics education |
 
 **Tech Stack:** `Expo` `iOS` `BLE` `Education`
 
 ---
 
-### 🤖 [Flokode: Agentic AI Platform](https://github.com/henrybon806/flokode)
+### 🤖 [Flokode: Agentic AI Project Manager](https://github.com/henrybon806/flokode)
 **2025-Present** | AI code-agent platform with multi-step workflows and tool-chain automation.
 
 | **Overview** | **Key Features** | **Impact & Reach** |
 |:---:|:---:|:---:|
-| Intelligent code generation platform leveraging agentic AI for complex development workflows | Multi-agent orchestration<br>Context-aware code generation<br>VS Code integration<br>Automated testing workflows | Developer productivity gains<br>Intelligent automation<br>Complex task execution<br>Reduced development time |
+| AI-powered code generation platform | Multi-agent orchestration<br>Context-aware code generation<br>VS Code integration<br>Automated testing workflows | Developer productivity gains<br>Intelligent task automation<br>Complex workflow execution<br>Reduced development cycles |
 
 **Tech Stack:** `Agentic AI` `TypeScript` `Visual Studio Code`
 
@@ -62,7 +62,7 @@ I split my time between building, mentoring, and research-heavy side projects. A
 
 | **Overview** | **Key Features** | **Impact & Reach** |
 |:---:|:---:|:---:|
-| RPG-style fitness application transforming workouts into engaging quests and adventures | Character progression system<br>Workout quest mechanics<br>Social challenges<br>Real-time analytics | Scalable fitness architecture<br>Multiple tracking integrations<br>Long-term engagement design<br>Gamified motivation system |
+| Gamified fitness app with RPG mechanics | Character progression system<br>Workout quest mechanics<br>Social challenges<br>Real-time analytics | Scalable fitness architecture<br>Multiple tracking integrations<br>Long-term engagement design<br>Enhanced motivation system |
 
 **Tech Stack:** `React Native` `TypeScript` `Supabase` `Auth`
 
