@@ -27,7 +27,12 @@ I split my time between building, mentoring, and research-heavy side projects. A
 ### 📊 ARES: FTC Analytics Platform | [Live Site](https://ares-robotics.com)
 **2023–Present** | Public stats and Discord bot for FTC teams: OPR, rankings, match insights.
 
-Built a scalable backend responsible for processing raw tournament data in real-time via a REST API. This platform provides an advanced analytics dashboard and integrated Discord bot that serve hundreds of competitive robotics teams with critical match insights and performance metrics.
+| Overview | Image |
+| :--- | :---: |
+| Built a scalable backend responsible for processing raw tournament data in real-time via a REST API, ensuring high data integrity and low-latency response times. This robust platform provides an advanced analytics dashboard and integrated Discord bot that serve hundreds of competitive robotics teams with critical match insights and performance metrics to drive better strategic decisions. | 
+
+[Image of ARES Dashboard Screenshot]
+ |
 
 * **Tech Stack:** `TypeScript` `React/Expo` `Supabase` `Postgres` `Discord Bot`
 * **Key Features:** Live OPR calculations, Team comparison tools, Discord bot integration, Tournament bracketing.
@@ -38,7 +43,9 @@ Built a scalable backend responsible for processing raw tournament data in real-
 ### Spike Inclusive: Accessibility Robotics | [App Store](https://apps.apple.com/us/app/spike-inclusive)
 **2023-Present** | Accessible LEGO Spike programming via Bluetooth LE with guided blocks.
 
-Developed a custom Bluetooth LE protocol to establish reliable, low-latency communication with the LEGO Spike robots. The project features an accessible iPad interface that uses a guided block system, specifically designed to enable students with diverse abilities to successfully program and interact with robots.
+| Overview | Image |
+| :--- | :---: |
+| Developed a custom **Bluetooth LE protocol** to establish reliable, low-latency communication with the LEGO Spike robots, overcoming complex hardware constraints. The project features an accessible iPad interface that uses a guided block system, specifically designed to enable students with diverse abilities to successfully program, experiment, and interact with robotics in an inclusive learning environment. |  |
 
 * **Tech Stack:** `Expo` `iOS` `BLE` `Education`
 * **Key Features:** Custom BLE command layer, Accessible UI design, Guided programming blocks, Real-time robot feedback.
@@ -49,7 +56,9 @@ Developed a custom Bluetooth LE protocol to establish reliable, low-latency comm
 ### 🤖 Flokode: Agentic AI Project Manager
 **2025-Present** | AI code-agent platform with multi-step workflows and tool-chain automation.
 
-Designed and implemented an agentic AI system capable of complex multi-agent orchestration and delegation for software development tasks. The platform uses context-aware automation, integrating directly with developer tools to intelligently execute multi-step workflows, significantly reducing manual effort and development cycles.
+| Overview | Image |
+| :--- | :---: |
+| Designed and implemented an **agentic AI system** capable of complex multi-agent orchestration and delegation for intricate software development tasks. The platform uses context-aware automation, integrating directly with developer tools like VS Code to intelligently execute multi-step workflows, significantly reducing manual effort, ensuring consistency, and accelerating development cycles. |  |
 
 * **Tech Stack:** `Agentic AI` `TypeScript` `Visual Studio Code`
 * **Key Features:** Multi-agent orchestration, Context-aware code generation, VS Code integration, Automated testing workflows.
@@ -60,7 +69,9 @@ Designed and implemented an agentic AI system capable of complex multi-agent orc
 ### 🎮 FitRealm: Gamified Fitness App
 **2025-Present** | Gamified fitness app with quests, streaks, and real-time progress.
 
-Created an RPG-style fitness platform that integrates a detailed character progression system, empowering users through virtual rewards for real-world activity. The application utilizes motivational design elements like streaks, social challenges, and leveling mechanics to significantly enhance long-term workout motivation and engagement.
+| Overview | Image |
+| :--- | :---: |
+| Created an **RPG-style fitness platform** that integrates a detailed character progression system, empowering users through virtual rewards, experience points, and leveling mechanics for real-world activity. The application utilizes motivational design elements like streaks, social challenges, and leaderboard integration to significantly enhance long-term workout motivation and user engagement. |  |
 
 * **Tech Stack:** `React Native` `TypeScript` `Supabase` `Auth`
 * **Key Features:** Character progression system, Workout quest mechanics, Social challenges, Real-time analytics.
