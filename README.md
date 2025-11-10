@@ -56,11 +56,8 @@ I specialize in **mobile development (React Native, Swift)**, **robotics program
 
 <div align="center">
 
-| Platform | Link | What You'll Find |
-| :---: | :---: | :--- |
-| 🌐 **Portfolio** | [henrybonomolo.com](https://henrybonomolo.com) | Projects, case studies & technical blog |
-| 💼 **LinkedIn** | [/in/henrybonomolo](https://linkedin.com/in/henrybonomolo) | Professional updates & networking |
-| 📧 **Email** | [hbono@berkeley.edu](mailto:hbono@berkeley.edu) | Direct contact for opportunities |
-| 🤖 **LeetCode** | [/u/hbono4](https://leetcode.com/u/hbono4/) | Coding challenges & problem solving |
+| 🌐 **Portfolio** | 💼 **LinkedIn** | 📧 **Email** | 🤖 **LeetCode** |
+| :---: | :---: | :---: | :---: |
+| [henrybonomolo.com](https://henrybonomolo.com) | [linkedin.com/in/henrybonomolo](https://linkedin.com/in/henrybonomolo) | [hbono@berkeley.edu](mailto:hbono@berkeley.edu) | [leetcode.com/u/hbono4](https://leetcode.com/u/hbono4/) |
 
 </div>
