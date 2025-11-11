@@ -50,12 +50,12 @@ I split my time between building, mentoring, and research-heavy side projects. A
 
 ---
 
-### Flokode: Agentic AI Project Manager | [Repo](https://github.com/flow-kode/flow-kode)
+### Flow-kode: Agentic AI Project Manager | [Repo](https://github.com/flow-kode/flow-kode)
 **2025-Present** | AI code-agent platform with multi-step workflows and tool-chain automation.
 
 | Overview | Image |
 | :--- | :---: |
-| Designed and implemented an agentic AI system capable of complex multi-agent orchestration and delegation for intricate software development tasks. The platform uses context-aware automation, integrating directly with developer tools like VS Code to intelligently execute multi-step workflows, significantly reducing manual effort, ensuring consistency, and accelerating development cycles. | <img src="https://i.imgur.com/UrwG1PG.png" width="3000" alt="Flokode Agent Manager Workflow Placeholder"> |
+| Designed and implemented an agentic AI system capable of complex multi-agent orchestration and delegation for intricate software development tasks. The platform uses context-aware automation, integrating directly with developer tools like VS Code to intelligently execute multi-step workflows, significantly reducing manual effort, ensuring consistency, and accelerating development cycles. | <img src="https://i.imgur.com/UrwG1PG.png" width="3000" alt="Flow-kode Agent Manager Workflow Placeholder"> |
 
 * **Tech Stack:** `Agentic AI` `TypeScript` `Visual Studio Code`
 * **Key Features:** Multi-agent orchestration, Context-aware code generation, VS Code integration, Automated testing workflows.
